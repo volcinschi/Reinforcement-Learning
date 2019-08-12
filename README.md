@@ -24,7 +24,7 @@ Tasks:
 - Original paper: https://arxiv.org/abs/1509.02971
 - OPENAI Baselines post: https://blog.openai.com/better-exploration-with-parameter-noise/
 
-Taks:
+Tasks:
 1. Change DDPG to Mountain car (May tune a bit the hyperparameters as constant time systems are different). Compare with DQN (# of episodes till convergence)
 2. (Optional) As you see reward/cost penalize control law/actions change it so it penalize more control energy used and plot u(t) for different initial positions of the pendulum.
 
