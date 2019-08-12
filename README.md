@@ -10,7 +10,7 @@ Dependencies
 conda install -c hcc gym 
 conda install -c conda-forge tensorboardx 
 ```
-## DQN
+# DQN
 - Original paper: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 Tasks:
