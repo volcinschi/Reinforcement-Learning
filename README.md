@@ -7,7 +7,7 @@ Dependencies
 - gym, matplotlib, numpy, tensorboardx
 
 ```bash
-conda install -c hcc gym 
+pip install gym
 conda install -c conda-forge tensorboardx 
 ```
 # DQN
