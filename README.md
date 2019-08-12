@@ -4,7 +4,7 @@ Reinforcement learning homework IBIO4615
 Dependencies
 - Python3.5+
 - Pytorch 1.0.1.
-- gym, matplotlib, numpy
+- gym, matplotlib, numpy, tensorboardx
 
 ```bash
 conda install -c hcc gym 
