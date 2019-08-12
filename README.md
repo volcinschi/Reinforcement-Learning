@@ -4,11 +4,13 @@ Reinforcement learning homework IBIO4615
 Dependencies
 - Python3.5+
 - Pytorch 1.0.1.
+- TensorFlow 1.2
 - gym, matplotlib, numpy, tensorboardx
 
 ```bash
 pip install gym
-conda install -c conda-forge tensorboardx 
+pip install tensorboardx 
+pip install tensorflow=1.2
 ```
 # DQN
 - Original paper: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
