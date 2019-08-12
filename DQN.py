@@ -142,4 +142,4 @@ def main():
 if __name__ == '__main__':
     main()
     plt.show()
-    plt.savefig(f"DQN Total Reward vs Episodes")
+    plt.savefig(f"DQN.png")
