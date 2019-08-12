@@ -18,7 +18,7 @@ pip install tensorflow=1.2
 Tasks:
 1. Play with the hyperparameters and show their corresponding graphs. Which parameter caused the most change? Which one didn’t affect that much? Discuss briefly your results
 2. Anneal the 𝞮 hyperparameter to decay linearly instead of being fixed? Did it help at all? Why?
-3. Play with the network architecture and report any results
+3. Try two different architectures and report any results
 
 # DDPG
 - Original paper: https://arxiv.org/abs/1509.02971

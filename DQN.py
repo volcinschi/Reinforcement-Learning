@@ -78,9 +78,10 @@ class Dqn():
     #plot total reward vs episode
     def plot(self, ax, x):
         ax.cla()
-        ax.set_xlabel("episode")
-        ax.set_ylabel("total reward")
+        ax.set_xlabel("Episode")
+        ax.set_ylabel("Total reward")
         ax.plot(x, 'b-')
+        ax.set_title("Total reward vs Episode")
         plt.pause(0.000000000000001)
 
     #q update based on discounted return
